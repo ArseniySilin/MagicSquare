@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class Solution {
     static int[] m1 = new int[] { 8, 1, 6, };
     static int[] m2 = new int[] { 3, 5, 7, };
     static int[] m3 = new int[] { 4, 9, 2, };
